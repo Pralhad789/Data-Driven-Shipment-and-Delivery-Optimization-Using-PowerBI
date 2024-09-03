@@ -16,7 +16,8 @@ The objective of this project is to develop a comprehensive PowerBI dashboard to
 **Methodology**
 
 **A) Data Cleaning and Transformation:** 
-  The project began with the extraction of raw shipment and delivery data from multiple sources. The data was then cleaned to remove inconsistencies, duplicate records, and irrelevant information. Data transformation processes were applied to standardize formats and ensure that the data was suitable for analysis. Key metrics such as order dates, delivery times, sales amounts, and supplier details were accurately structured to feed into the dashboard.
+
+The project began with the extraction of raw shipment and delivery data from multiple sources. The data was then cleaned to remove inconsistencies, duplicate records, and irrelevant information. Data transformation processes were applied to standardize formats and ensure that the data was suitable for analysis. Key metrics such as order dates, delivery times, sales amounts, and supplier details were accurately structured to feed into the dashboard.
   
 **B) Analysis Techniques:**
 
@@ -32,6 +33,7 @@ Comparative Analysis: The dashboard enabled comparisons between on-time and dela
 The implementation of the PowerBI dashboard led to a significant improvement in the company's shipment and delivery performance. On-time deliveries increased, supplier accountability improved, and overall customer satisfaction was enhanced. The insights provided by the dashboard enabled the company to optimize its supply chain operations, reduce costs, and improve profitability.
 
 **B) Insights:**
+
 Supplier Performance: The dashboard revealed that certain suppliers consistently underperformed in terms of on-time deliveries. This insight led to renegotiations and stricter performance metrics, resulting in better overall supplier reliability.
 
 Product Profitability: Analysis of sales amounts and profits by product helped the company focus on high-margin products, driving better inventory management and marketing efforts.
