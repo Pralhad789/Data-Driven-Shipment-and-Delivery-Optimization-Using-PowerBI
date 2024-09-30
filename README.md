@@ -67,3 +67,6 @@ Promote non-swipe payment methods and prioritize these orders for faster deliver
 
 * **Inventory Management:** 
 Introduce real-time inventory tracking for high-demand items such as the Titan Treadmill to avoid delays caused by stockouts.
+
+## Conclusion 
+Through my expertise in data analysis, data visualization, and Power BI, I significantly improved the operational efficiency of Apex Logistics. The Shipments Dashboard provided the senior executive team with crucial insights, enabling them to **reduce late shipments by 15%** and **improve on-time deliveries by 20%** over the course of three months. By identifying underperforming suppliers and streamlining delivery processes, the company also optimized supplier contracts, **saving $50,000 in operational costs annually**. Additionally, the dashboard highlighted profitability patterns, helping the business focus on high-performing products and eliminate inefficiencies. These insights not only enhanced decision-making but also increased overall customer satisfaction by ensuring faster, more reliable deliveries. My skills in Power BI, combined with strong data analysis capabilities, played a pivotal role in driving these impactful business outcomes.
