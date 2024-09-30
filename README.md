@@ -45,13 +45,32 @@ Using Power BI, created the following key visualizations to extract actionable i
 ## Business Implications
 The analysis revealed key areas for operational improvement:
 
-Supplier Delays: The analysis identified that delays were concentrated among specific suppliers, particularly Apex Sports Supply, which had 75% of its shipments late. Late shipments affected customer satisfaction and caused revenue losses.
-Cost Management: High COGS across various product categories limited overall profitability, prompting the need for renegotiations with suppliers and streamlining product procurement.
-Customer Impact: Delayed sales amounted to nearly 45% of the total sales amount, demonstrating an urgent need for improved logistics and shipping strategies.
-6. Recommendations
-Based on the findings, I recommended the following:
+* Supplier Delays:
 
-Supplier Optimization: Focus on improving shipment times from key suppliers by implementing performance-based contracts and setting stricter KPIs for delivery times. Engaging with Apex Sports Supply and Prime Gear to ensure more reliable on-time shipments.
-Shipping Method Changes: Promote non-swipe payment methods and prioritize these orders for faster delivery. This method showed better shipment timing and could improve delivery performance.
-Inventory Management: Introduce real-time inventory tracking for high-demand items such as the Titan Treadmill to avoid delays caused by stockouts.
-Delivery Schedule Optimization: Given the higher success rate of weekday deliveries, adjust staffing and warehouse operations to handle a greater volume of shipments during weekdays.
+The analysis identified that delays were concentrated among specific suppliers, particularly Apex Sports Supply, which had 75% of its shipments late. Late shipments affected customer satisfaction and caused revenue losses.
+
+* Cost Management: 
+
+High COGS across various product categories limited overall profitability, prompting the need for renegotiations with suppliers and streamlining product procurement.
+
+* Customer Impact: 
+
+Delayed sales amounted to nearly 45% of the total sales amount, demonstrating an urgent need for improved logistics and shipping strategies.
+
+## Recommendations
+
+* Delivery Schedule Optimization: 
+
+Given the higher success rate of weekday deliveries, adjust staffing and warehouse operations to handle a greater volume of shipments during weekdays.
+
+* Supplier Optimization: 
+
+Focus on improving shipment times from key suppliers by implementing performance-based contracts and setting stricter KPIs for delivery times. Engaging with Apex Sports Supply and Prime Gear to ensure more reliable on-time shipments.
+
+* Shipping Method Changes: 
+
+Promote non-swipe payment methods and prioritize these orders for faster delivery. This method showed better shipment timing and could improve delivery performance.
+
+* Inventory Management: 
+
+Introduce real-time inventory tracking for high-demand items such as the Titan Treadmill to avoid delays caused by stockouts.
