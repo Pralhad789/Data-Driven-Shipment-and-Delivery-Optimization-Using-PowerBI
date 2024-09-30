@@ -1,7 +1,5 @@
 # Data-Driven-Shipment-and-Delivery-Optimization-Using-PowerBI
 
-![ALT text](https://github.com/Pralhad789/Data-Driven-Shipment-and-Delivery-Optimization-Using-PowerBI/blob/main/Shipment_dashboard.png)
-
 ## Business Overview
 Apex Logistics, a global supply chain company specializing in delivering sporting goods and equipment worldwide. The company partners with 10 key suppliers from countries like the USA, Canada, and Germany to streamline operations and provide timely deliveries. In 2024 alone, Apex Logistics handled over 50,000 shipments across various regions, generating $107 million in sales. However, in recent months, the leadership team noticed rising complaints about delayed shipments, with nearly 45% of total shipments arriving late. These delays have affected customer satisfaction and operational efficiency, leading to a potential loss of $48,775 in delayed sales. With increasing operational complexity and higher product demand, Apex Logistics is seeking a solution to reduce late shipments, identify supply chain bottlenecks, and improve overall delivery performance.
 
@@ -32,6 +30,10 @@ Orders Table: Contains 50 unique orders, each covering multiple products.
 Products Table: Listed 10 distinct products from various categories such as footwear, sports gear, accessories, and bags, with product prices ranging from $60 to $150. Products varied in profitability and sales volume.
 Shipments Table: Detailed shipment information, including shipment dates, delivery dates, and actual delivery times for each order. The table tracked over 50 shipments across multiple delivery methods, capturing the delivery delays and shipment types for each transaction.
 Suppliers Table: Provided data on 10 global suppliers from countries such as the USA, Canada, and Japan, each with different performance levels regarding on-time deliveries.
+
+## Dashboard
+
+![Dashboard](https://github.com/Pralhad789/Data-Driven-Shipment-and-Delivery-Optimization-Using-PowerBI/blob/main/Shipment_dashboard.png)
 
 ## Analysis and Insights
 Using Power BI, created the following key visualizations to extract actionable insights:
