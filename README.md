@@ -71,4 +71,12 @@ Promote non-swipe payment methods and prioritize these orders for faster deliver
 Introduce real-time inventory tracking for high-demand items such as the Titan Treadmill to avoid delays caused by stockouts.
 
 ## Conclusion 
-Through my expertise in data analysis, data visualization, and Power BI, I significantly improved the operational efficiency of Apex Logistics. The Shipments Dashboard provided the senior executive team with crucial insights, enabling them to **reduce late shipments by 15%** and **improve on-time deliveries by 20%** over the course of three months. By identifying underperforming suppliers and streamlining delivery processes, the company also optimized supplier contracts, **saving $50,000 in operational costs annually**. Additionally, the dashboard **highlighted profitability patterns**, helping the business focus on high-performing products and eliminate inefficiencies. These insights not only enhanced decision-making but also increased overall customer satisfaction by ensuring faster, more reliable deliveries. My skills in Power BI, combined with strong data analysis capabilities, played a pivotal role in driving these impactful business outcomes.
+Through my expertise in data analysis, data visualization, and Power BI, I drove significant improvements in the operational efficiency of Apex Logistics. The Shipments Dashboard I developed provided the senior executive team with actionable insights, leading to:
+
+1. A 15% reduction in late shipments and a 20% increase in on-time deliveries within three months.
+2. Identification of underperforming suppliers and optimization of delivery processes, resulting in $50,000 annual savings from improved supplier contracts.
+3. Key profitability insights that enabled the business to focus on high-performing products and eliminate inefficiencies.
+
+These insights improved decision-making and also boosted customer satisfaction by ensuring faster and more reliable deliveries. My ability to leverage Power BI and apply advanced data analysis techniques was instrumental in achieving these impactful business outcomes.
+
+
